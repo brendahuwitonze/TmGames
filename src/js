@@ -1,0 +1,31 @@
+
+            <div
+                class="bg-[url(' https://templatemo.com/templates/templatemo_589_lugx_gaming/assets/images/banner-bg.jpg')]">
+                <div class="container mx-auto px-4 bg-blue-400 py-[20px]">
+                <div class="grid grid-cols-2  sm:grid-cols-2  xl:grid-cols-2  md:grid-cols-2 2xl:grid-cols-2 ">
+                    <div>
+                        <img class="bg-blue-400 h-[30px] sm:h-[30px]  md:h-[30px] xl:h-[30px] 2xl:h-[30px]"
+                            src="/img/logo.png" alt="">
+                    </div>
+                    <div class="space-x-10 ">
+                        <a href="">Home</a>
+                        <a href="">Using Products</a>
+                        <a href="">ABout us</a>
+                        <a href="">Price</a>
+                        <button
+                            class="border rounded-full bg-red-500 px-[30px] h-[30px] sm:h-[30px] md:h-[30px]  xl:h-[30px] 2xl:h-[30px]  sm:px-[30px]  md:px-[30px]  xl:px-[30px] 2xl:px-[30px]  ">Sign</button>
+                    </div>
+                </div>
+            </div>
+            <!-- body -->
+            <div class="grid grid-cols-2 ">
+                        <h1>WELCOME TO LUGX</h1>
+                    <P>Best Gaming Site Ever!</P>
+                    <p>LUGX Gaming is free Bootsrap 5 HTML CSS website
+                        for your gaming website. you can download and <br>this layout for <br>commercial purposes. please
+                <div class="image">
+                    <img src="https://templatemo.com/templates/templatemo_589_lugx_gaming/assets/images/banner-image.jpg"
+                        alt="">
+                </div>
+            </div>
+            </div>
